@@ -21,15 +21,12 @@
                 <div class="form-group">
                     <select name="tipo_doc" id="tipo_doc" class="form-control">
                         <option value="">Seleccione el tipo de documento de identidad</option>
-                        <opcion value="CC">Cedula de ciudadania</opcion>
-                        <opcion value="TI">Tarjeta de identidad</opcion>
-                        <opcion value="CE">Cedula de extranjeria</opcion>
-                        <opcion value="RC">Registro civil</opcion>
-                        <opcion value="NIT">Nit</opcion>
+                        <option value="CC">Cedula de ciudadania</option>
+                        <option value="TI">Tarjeta de identidad</option>
+                        <option value="CE">Cedula de extranjeria</option>
+                        <option value="RC">Registro civil</option>
+                        <option value="NIT">Nit</option>
                     </select>
-                </div>
-                <div class="form-group">
-                    <input type="text" name="documento" id="documento" name="documento" class="form-control" placeholder="Digite su numero de identidad">
                 </div>
                 <div class="form-group">
                     <input type="text" name="documento" id="documento" name="documento" class="form-control" placeholder="Digite su numero de identidad">
@@ -46,8 +43,8 @@
                 <div class="form-group">
                     <select name="sexo" id="sexo" class="form-control">
                         <option value="">Seleccione el sexo</option>
-                        <opcion value="Masculino">Masculino</opcion>
-                        <opcion value="Femenino">Femenino</opcion>
+                        <option value="Masculino">Masculino</option>
+                        <option value="Femenino">Femenino</option>
                     </select>
                 </div>
                 <div class="form-group">

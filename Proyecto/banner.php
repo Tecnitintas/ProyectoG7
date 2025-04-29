@@ -9,7 +9,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <img src="/img/SISCONMR.jpg" alt="Responsive logo" class="rounded">
+                    <!--<img src="/img/SISCONMR.jpg" alt="Responsive logo" class="rounded">-->
                 </div>
             </div>
         </div>
